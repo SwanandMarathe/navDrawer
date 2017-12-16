@@ -1,0 +1,34 @@
+".container": {
+	backgroundColor:"white"
+}
+
+'#SideBarScreen':{
+	top:0,
+	width: '100%',
+	height: '100%',
+	backgroundColor:'transparent' 
+}
+
+"#tableView": {
+	backgroundColor:'transparent',
+	height:Ti.UI.FILL,
+	bottom:'5dp',
+	scrollable:true
+},
+
+"#blurBg":{
+	top:0
+},
+
+
+"#Sidebarview":{
+	top:0
+},
+
+ 
+"#Sidebarview": {
+	width: '70%',
+	height:'100%',
+	right:0,
+	backgroundColor:'transparent'
+},

@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<View id="SideBarScreen" zIndex="15">
+			<View backgroundColor="#000000" height="100%" id="blurBg" opacity="0.9" right="0" width="70%"/>
+        	<View bubbleParent="false" id="Sidebarview" layout="vertical">
+        		<TableView id="tableView"/>
+        	</View>
+        </View>
+	</Window>
+</Alloy>
