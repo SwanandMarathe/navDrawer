@@ -280,7 +280,6 @@ processData();
 
 function processData() {
 	var dCnt = 0;
-	printList(Categories);
 	var tableData = [];
 	for ( dCnt = 0; dCnt < Categories.length; dCnt += 1) {
 		//    	Ti.API.info('dCnt'+dCnt);
